@@ -1,0 +1,36 @@
+#cloud{
+  font-size: large;
+  font-family: sans-serif;
+  font-weight: bolder;
+  
+}
+
+body{
+  /* background-color: rgb(49, 49, 49); */
+}
+
+a {
+  text-decoration: none;
+ 
+ }
+
+mark{
+  background-color: rgb(91,192,222);
+  border-radius:20px ;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-top: 50px;
+}
+
+Button{
+  background-color: rgb(51,57,73) !important;
+  border: none !important;
+ 
+ 
+}
+
+.form-control:focus {
+  box-shadow: none !important;
+  -webkit-box-shadow: none !important;
+  border: none !important;
+}
