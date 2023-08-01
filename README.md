@@ -30,8 +30,6 @@ Aplicacion de buscador de pokemones utilizando la API de pokeapi. Funcionalidade
 
 - [**sweet alert 2**](https://sweetalert2.github.io/) para los alertas  
 
-- [**html2canvas**](https://html2canvas.hertzen.com/)  
-
 - [**Axios**](https://axios-http.com/)  
   
 - [**Validacion con yup**]((https://www.npmjs.com/package/yup)https://www.npmjs.com/package/yup)
