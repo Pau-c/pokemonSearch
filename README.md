@@ -3,7 +3,7 @@
 ---  
  
 
-Aplicacion de buscador de pokemones utilizando la API de pokeapi. Funcionalidades: 
+Aplicacion de buscador de pokemones utilizando la API de pokeapi. Funcionalidades:   
 -Muestra pokemones random en una word cloud  
 -Busca pokemones por nombre, brindando info basica    
 -Permite a cada usuario guardar/borrar sus pokemones favoritos y mostrarlos en una lista.  
@@ -21,9 +21,9 @@ Aplicacion de buscador de pokemones utilizando la API de pokeapi. Funcionalidade
 - <img src="https://img.icons8.com/color/30/null/bootstrap.png" alt="icono de Bootstrap" widht="30" height="30" />**Bootstrap**
 
 - <img src="https://img.icons8.com/plasticine/30/null/react.png" alt="icono de React" widht="30" height="30" />**React**
-- <img src="https://icons8.com/icon/87330/google-firebase-console" alt="icono de Firebase" widht="30" height="30" />**Firebase**  
   
-
+- <img src="https://img.icons8.com/color/30/null/firebase.png" widht="30" height="30" />**Firebase**  
+  
 - [<img src="https://img.icons8.com/color/30/null/bootstrap.png" alt="icono de Bootstrap" widht="30" height="30" />**React Bootstrap**](https://react-bootstrap.github.io/)  
 
 - [**React Router DOM**](https://reactrouter.com/en/main)  
@@ -34,4 +34,4 @@ Aplicacion de buscador de pokemones utilizando la API de pokeapi. Funcionalidade
 
 - [**Axios**](https://axios-http.com/)  
   
-- - [**Validacion con yup**]((https://www.npmjs.com/package/yup)https://www.npmjs.com/package/yup)
+- [**Validacion con yup**]((https://www.npmjs.com/package/yup)https://www.npmjs.com/package/yup)
