@@ -28,8 +28,10 @@ Aplicacion de buscador de pokemones utilizando la API de pokeapi. Funcionalidade
 
 - [**React Router DOM**](https://reactrouter.com/en/main)  
 
-- [**sweet alert 2**](https://sweetalert2.github.io/) para los alertas  
-
+- [**sweet alert 2**](https://sweetalert2.github.io/) para los alertas
+ 
+- [**React  Icons**](https://react-icons.github.io/react-icons/) para los iconos
+  
 - [**Axios**](https://axios-http.com/)
   
 - [**Validacion con yup**](https://www.npmjs.com/package/yup)  
