@@ -38,6 +38,6 @@ Aplicacion de buscador de pokemones utilizando la API de pokeapi. Funcionalidade
   
 ---
 
-## :tv: Demo:
+## - <img src="https://img.icons8.com/color/30/null/pokemon.png" /> Demo:
 
 [**Demo**](https://codopokemonsearch.netlify.app/)  
