@@ -1,4 +1,4 @@
-# <img src="https://img.icons8.com/bubbles/40/null/react.png" alt="react" widht="40" height="40" /> Proyecto individual de Codo a Codo - React - CODOTV 
+# <img src="https://img.icons8.com/bubbles/40/null/react.png" alt="react" widht="40" height="40" /> Proyecto individual de Codo a Codo - React - Buscador de Pokemon
 
 ---  
  
