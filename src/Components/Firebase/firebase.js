@@ -3,7 +3,7 @@ import { initializeApp } from "firebase/app";
 import { getAuth } from "firebase/auth";
 import {getFirestore} from "@firebase/firestore"
 
-// Your web app's Firebase configuration
+// Your web app's Firebase configuration REACT_APP_FIREBASE_
 const firebaseConfig = {
   apiKey: process.env.REACT_APP_FIREBASE_apiKey,
   authDomain: process.env.REACT_APP_FIREBASE_authDomain,
